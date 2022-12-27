@@ -1,0 +1,62 @@
+body 
+{
+  width: 100%;
+  min-height: 100vh;
+  background-color: #f5efef;
+  background-position: center;
+  background-size: cover;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: rgb(14, 13, 13);
+}
+#right{
+	padding: 10px;
+}
+#frmRegistration{
+	
+	width: 900px;
+	margin-left: 1%;
+}
+#frmRegistration h1
+{
+	padding-left: 140px;
+	padding-bottom: 15px;
+}
+#frmRegistration form{
+	margin-left: 150px;
+}
+
+.btn , .btn:hover
+{
+  background-color: #129cec;
+}
+.btn-primary
+{
+  color: #e8eceb;
+}
+
+.login-register-text
+{
+  margin-left: 25%;
+  margin-top: 50px;
+
+}
+
+.login-register-text a
+{
+  color: #129cec;
+}
+
+h1
+{
+  margin-left: 30%;
+  color: #129cec;
+}
+
+h2
+{
+  color: #129cec;
+  margin: 4%;
+  margin-left: 45%;
+}
