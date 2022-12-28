@@ -1,4 +1,4 @@
-### School Teacher Panel and admin panel.
+### School Teacher Panel and Admin Panel.
 #### Made with PHP,HTML,CSS,BOOTSRAP.
 ##### Small and Simple panel with many bootstrap to be easy to learn for another person paid me to make.
 
